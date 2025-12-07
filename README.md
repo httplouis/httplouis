@@ -8,8 +8,8 @@
 
 I am an Information Technology student focusing on web and mobile application development. I work with modern stacks and I'm comfortable learning new tools when projects require it. My 3 years as a student assistant in the Engineering Department helped me develop professionalism, organization, and the ability to work under pressure.
 
-- 🔭 Currently working on **TraviLink** - Campus transport management system
-- 🌱 Learning **Next.js 15**, **React Native**, and **TypeScript**
+- 🔭 Currently working on **full-stack web and mobile applications**
+- 🌱 Continuously learning **new technologies and frameworks**
 - 💼 Student Assistant at **MSEUF Engineering Department** (Aug 2022 - Present)
 - 📍 Based in **Trece Martires City, Cavite, Philippines**
 - 🎓 Pursuing **BS Information Technology** at Manuel S. Enverga University Foundation
