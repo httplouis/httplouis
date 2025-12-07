@@ -11,7 +11,6 @@ I am an Information Technology student focusing on web and mobile application de
 - 🔭 Currently working on **full-stack web and mobile applications**
 - 🌱 Continuously learning **new technologies and frameworks**
 - 💼 Student Assistant at **MSEUF Engineering Department** (Aug 2022 - Present)
-- 📍 Based in **Trece Martires City, Cavite, Philippines**
 - 🎓 Pursuing **BS Information Technology** at Manuel S. Enverga University Foundation
 
 ## 🛠️ Tech Stack
