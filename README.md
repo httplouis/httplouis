@@ -58,6 +58,17 @@ I am an Information Technology student focusing on web and mobile application de
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=httplouis&theme=dark" alt="GitHub Streak" />
 </div>
 
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=httplouis&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</div>
+
+## 🎯 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=httplouis&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-louis-rosales08/)
