@@ -58,32 +58,6 @@ I am an Information Technology student focusing on web and mobile application de
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=httplouis&theme=dark" alt="GitHub Streak" />
 </div>
 
-## 🔥 Featured Projects
-
-### 🚗 [Drive.Abi](https://github.com/httplouis/Drive-Abi)
-Modern car rental and sales platform with premium fleet management and seamless booking experience.
-
-### 🚌 [TraviLink](https://github.com/httplouis/TraveLink)
-Campus transport management system for MSEUF with automated travel order requests and multi-level approval workflows.
-
-### 📱 [TraviLink Mobile](https://github.com/httplouis/TraveLink-mobile)
-Cross-platform mobile app for TraviLink with real-time notifications and offline access to transportation requests.
-
-### 🗺️ [Alamat](https://github.com/httplouis/Alamat)
-Interactive map platform exploring Philippine legends and cultural heritage through geolocated stories and immersive experiences.
-
-## 💼 Experience
-
-- **Student Assistant** - Engineering Department, MSEUF (Aug 2022 - Present)
-- **Public Relations Officer** - Work Study Grantee Association (Aug 2023 - 2024)
-- **Treasurer** - MSEUF Wildcats Esports (2024 - 2025)
-- **Logistics & Technical Officer** - Philippine Society of Information Technology Students/MASTECH (2024 - 2025)
-
-## 📚 Education
-
-- **BS Information Technology** - Manuel S. Enverga University Foundation (Aug 2022 - Present)
-- **STEM** - Colegio de Santo de Cristo Burgos (Aug 2020 - July 2022)
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-louis-rosales08/)
